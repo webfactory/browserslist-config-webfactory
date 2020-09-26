@@ -16,6 +16,10 @@ Share browsers list between different front-end tools, like Autoprefixer, Stylel
 - IE11
 - 99.5% coverage in DE
 
+## Install
+
+`yarn add --dev browserslist-config-webfactory`
+
 ## Usage
 
 ### package.json
