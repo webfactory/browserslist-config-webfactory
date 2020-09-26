@@ -18,7 +18,9 @@ Share browsers list between different front-end tools, like Autoprefixer, Stylel
 
 ## Install
 
-`yarn add --dev browserslist-config-webfactory`
+```js
+yarn add --dev browserslist-config-webfactory
+```
 
 ## Usage
 
