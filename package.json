@@ -1,0 +1,15 @@
+{
+  "name": "browserslist-config-webfactory",
+  "version": "1.0.0",
+  "description": "This configuration reflects webfactory's default supported browser policy for their client projects.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webfactory/browserslist-config-webfactory.git"
+  },
+  "author": "webfactory GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webfactory/browserslist-config-webfactory/issues"
+  },
+  "homepage": "https://github.com/webfactory/browserslist-config-webfactory#readme"
+}
