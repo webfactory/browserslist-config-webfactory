@@ -13,7 +13,6 @@ Share browsers list between different front-end tools, like Autoprefixer, Stylel
 ## Default browser support
 
 - last 2 versions of major browsers
-- IE11
 - 99.5% coverage in DE
 
 ## Install
