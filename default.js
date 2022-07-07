@@ -1,5 +1,5 @@
 module.exports = [
-  '>0.25% in DE',
+  '>0.5% in DE',
   'last 3 Chrome major versions',
   'last 3 Firefox major versions',
   'last 3 Edge major versions',
