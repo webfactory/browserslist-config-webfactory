@@ -1,6 +1,6 @@
 {
   "name": "browserslist-config-webfactory",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "This configuration reflects webfactory's default supported browser policy for their client projects.",
   "repository": {
     "type": "git",
